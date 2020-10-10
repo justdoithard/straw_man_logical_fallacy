@@ -1,2 +1,2 @@
-# straw_man_logical_fallacy.github.io
+# justdoithard.github.io
 Second webproject
